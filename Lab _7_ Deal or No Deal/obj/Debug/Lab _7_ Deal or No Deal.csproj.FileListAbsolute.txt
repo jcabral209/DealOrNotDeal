@@ -1,0 +1,20 @@
+C:\Users\Code\Desktop\Lab _7_ Deal or No Deal\Lab _7_ Deal or No Deal\obj\Debug\Lab _7_ Deal or No Deal.csprojAssemblyReference.cache
+C:\Users\Code\Desktop\Lab _7_ Deal or No Deal\Lab _7_ Deal or No Deal\bin\Debug\Lab _7_ Deal or No Deal.exe.config
+C:\Users\Code\Desktop\Lab _7_ Deal or No Deal\Lab _7_ Deal or No Deal\bin\Debug\Lab _7_ Deal or No Deal.exe
+C:\Users\Code\Desktop\Lab _7_ Deal or No Deal\Lab _7_ Deal or No Deal\bin\Debug\Lab _7_ Deal or No Deal.pdb
+C:\Users\Code\Desktop\Lab _7_ Deal or No Deal\Lab _7_ Deal or No Deal\obj\Debug\Lab__7__Deal_or_No_Deal.Form1.resources
+C:\Users\Code\Desktop\Lab _7_ Deal or No Deal\Lab _7_ Deal or No Deal\obj\Debug\Lab__7__Deal_or_No_Deal.Properties.Resources.resources
+C:\Users\Code\Desktop\Lab _7_ Deal or No Deal\Lab _7_ Deal or No Deal\obj\Debug\Lab _7_ Deal or No Deal.csproj.GenerateResource.cache
+C:\Users\Code\Desktop\Lab _7_ Deal or No Deal\Lab _7_ Deal or No Deal\obj\Debug\Lab _7_ Deal or No Deal.csproj.CoreCompileInputs.cache
+C:\Users\Code\Desktop\Lab _7_ Deal or No Deal\Lab _7_ Deal or No Deal\obj\Debug\Lab _7_ Deal or No Deal.exe
+C:\Users\Code\Desktop\Lab _7_ Deal or No Deal\Lab _7_ Deal or No Deal\obj\Debug\Lab _7_ Deal or No Deal.pdb
+C:\Users\Jose.Jose-PC\Desktop\Lab _7_ Deal or No Deal\Lab _7_ Deal or No Deal\bin\Debug\Lab _7_ Deal or No Deal.exe.config
+C:\Users\Jose.Jose-PC\Desktop\Lab _7_ Deal or No Deal\Lab _7_ Deal or No Deal\bin\Debug\Lab _7_ Deal or No Deal.exe
+C:\Users\Jose.Jose-PC\Desktop\Lab _7_ Deal or No Deal\Lab _7_ Deal or No Deal\bin\Debug\Lab _7_ Deal or No Deal.pdb
+C:\Users\Jose.Jose-PC\Desktop\Lab _7_ Deal or No Deal\Lab _7_ Deal or No Deal\obj\Debug\Lab _7_ Deal or No Deal.csprojAssemblyReference.cache
+C:\Users\Jose.Jose-PC\Desktop\Lab _7_ Deal or No Deal\Lab _7_ Deal or No Deal\obj\Debug\Lab__7__Deal_or_No_Deal.Form1.resources
+C:\Users\Jose.Jose-PC\Desktop\Lab _7_ Deal or No Deal\Lab _7_ Deal or No Deal\obj\Debug\Lab__7__Deal_or_No_Deal.Properties.Resources.resources
+C:\Users\Jose.Jose-PC\Desktop\Lab _7_ Deal or No Deal\Lab _7_ Deal or No Deal\obj\Debug\Lab _7_ Deal or No Deal.csproj.GenerateResource.cache
+C:\Users\Jose.Jose-PC\Desktop\Lab _7_ Deal or No Deal\Lab _7_ Deal or No Deal\obj\Debug\Lab _7_ Deal or No Deal.csproj.CoreCompileInputs.cache
+C:\Users\Jose.Jose-PC\Desktop\Lab _7_ Deal or No Deal\Lab _7_ Deal or No Deal\obj\Debug\Lab _7_ Deal or No Deal.exe
+C:\Users\Jose.Jose-PC\Desktop\Lab _7_ Deal or No Deal\Lab _7_ Deal or No Deal\obj\Debug\Lab _7_ Deal or No Deal.pdb

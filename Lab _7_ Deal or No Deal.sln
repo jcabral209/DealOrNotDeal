@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab _7_ Deal or No Deal", "Lab _7_ Deal or No Deal\Lab _7_ Deal or No Deal.csproj", "{BCC3868D-0E69-44C5-B768-E348C4C93B46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCC3868D-0E69-44C5-B768-E348C4C93B46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCC3868D-0E69-44C5-B768-E348C4C93B46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCC3868D-0E69-44C5-B768-E348C4C93B46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCC3868D-0E69-44C5-B768-E348C4C93B46}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24D9E499-B82A-43FA-A7A1-434647A08332}
+	EndGlobalSection
+EndGlobal
